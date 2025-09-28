@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @The-Accidental-Game-Devs
 - 👀 I’m interested in Game Devlopment
-- 🌱 I’m currently learning Godot, Web devlopment 
+- 🌱 I’m currently learning Rust, Bevy, Web devlopment and game development.
 - 💞️ I’m looking to collaborate on Game and Web devlopment 
 - 📫 How to reach me aung.lin.thant.address@gmail.com
 - 😄 Pronouns: they/them
